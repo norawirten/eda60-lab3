@@ -3,6 +3,6 @@ object HelloWorld {
         println("Hello,world!")
         println("Have a nice day!")
         println("Goodbye.")
-        println("see you later")
+        println("See you.")
     }
 }
